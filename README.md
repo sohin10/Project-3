@@ -10,7 +10,7 @@ Preetam
 
 
 
-###Topic of project
+##Topic of project
 
 Single-page web application for course registration using React.js.
 
