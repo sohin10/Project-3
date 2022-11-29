@@ -32,6 +32,15 @@ Complete course registration
 
 We wanted to create a project UI prototype for this milestone. So we could figure out how to divide the app into component structures and plan for the MVP. We started with low-fidelity wireframes and then progressed to a high-fidelity prototype.
 
+### low fidelity mockup
+![lowfi](https://user-images.githubusercontent.com/60220627/204493681-6392f02e-5f45-44f6-aa48-96136c7c78c4.png)
+![lowfi2](https://user-images.githubusercontent.com/60220627/204493690-50f8d7db-8ea1-4608-88aa-e83f0def4fd8.png)
+
+
+### high fidelity mockup
+https://www.figma.com/file/gZIyqi9MskasEv1aWzk55v/Buff-class-search?node-id=0%3A1
+
+
 
 
 ## Project outline 
