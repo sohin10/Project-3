@@ -4,9 +4,9 @@ Create a single page application (SPA) using React.js, or any front-end web deve
 
 Team members
 
-Sohini,
-Shivangi, 
-Preetam
+1. Sohini,
+2. Shivangi, 
+3. Preetam
 
 
 
