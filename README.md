@@ -24,3 +24,41 @@ Add course to cart,
 Check cart items, 
 Complete course registration
 
+
+
+
+
+# Milestone 2
+
+We wanted to create a project UI prototype for this milestone. So we could figure out how to divide the app into component structures and plan for the MVP. We started with low-fidelity wireframes and then progressed to a high-fidelity prototype.
+
+
+
+## Project outline 
+We will be using React router package to implement the Single page application (SPA) using React.
+The app is split in to 4 different pages.
+- Home
+- Course Detail
+- Cart
+- My Courses
+
+
+## Breaking The UI Into components
+Splitting the UI into to components so that each component adheres to single responsibility principle. Each component is responsible for one particular task alone.
+We have split the UI into components.
+- Navigation header Component
+- Course list Component
+- Search Component
+- Cart component
+- Course Detail Component
+- The cart/my course item component
+- Error message component (when the user tries to add a course that is already in cart/registered courses and when the time schedule clashes)
+
+
+To make the UI interactive we need to provide React with state. The change in state tell react that something has changed and re-render the component to trigger changes.
+To maintain the Application wise state we decided to use the useContext() react hook.
+
+
+## Goals for Milestone 3
+MVP (Minimum Viable Product)
+For the MVP, we’d like to create all of the pages with their respective components and styles, as well as apply the routing. As a stretch goal, we’d like to have the entire application completed and working properly.
