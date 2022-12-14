@@ -71,3 +71,27 @@ To maintain the Application wise state we decided to use the useContext() react 
 ## Goals for Milestone 3
 MVP (Minimum Viable Product)
 For the MVP, we’d like to create all of the pages with their respective components and styles, as well as apply the routing. As a stretch goal, we’d like to have the entire application completed and working properly.
+
+
+
+
+## MILESTONE 4 - REFLECTION
+
+Each day, every class, I learnt something new. Not only were we working with a new Javascript library, React, but we were also working in teams. This made Project 3 very exciting. Within our group, there was a great deal of collaboration and mutual respect. Before beginning the project, we were aware of each other's skills, abilities, and weaknesses, and we allocated work correctly so that we could assist one another whenever we encountered difficulties. 
+
+This project prepared us for working in the real world, cooperating with teams, and discussing code. We were able to solve errors and monitor each other's progress owing to our regular zoom calls. 
+
+Preetam's presence on our team was incredibly beneficial, as he not only understood a little bit about React but also assisted Shivangi and me in comprehending the many React principles while we worked on the project together. 
+
+All three of us are great at creating the user interface, so we started off by dividing the design across the three of us to create a wireframe to work off of. I sketched the website's initial design, while Shivangi built a low-fidelity prototype and Preetam worked on a high-fidelity mockup. 
+
+When it came to coding, since Preetam had experience in working with Real Time database, he took the responsibility of structuring, retrieving and updating the database while Shivangi and me were responsible in the coding of the components, styling them and learning about routing and implementing that in the project as well, which was a struggle at first to understand how the routing concept works but once we had the basics down it all made sense. Preetam additionally worked on the functionality of the application by using states, context and other logic. 
+
+There were no disagreements or misunderstandings between the three of us because we had established our goals and tasks beforehand, and then it was simply a matter of assisting each other in achieving our objectives. 
+It was also quite exciting to see how React can be utilized to develop such interactive web designs and have the chance to see what others had made as well. 
+
+I am quite surprised by how much I've progressed via this class. Coming into this course with no coding background whatsoever, it feels strange to say this now, but I can call myself a front-end developer, or at least I think I can. 
+
+But in the future, I will invest more time and effort into mastering HTML, CSS, and JavaScript. And build interactive websites that are cool and engaging! I'm pumped!
+
+
